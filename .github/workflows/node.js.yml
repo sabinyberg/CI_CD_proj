@@ -27,3 +27,4 @@ jobs:
 
       - name: Run JS file for test
         run: node js/script.js
+
